@@ -226,7 +226,7 @@ h3{
 }
 
 /*Responsiveness*/
-@media  screen and (max-width:1440px) {
+@media  screen and (max-width:900px) {
   h1{
     font-size: 2rem;
     line-height: 2rem;
