@@ -49,7 +49,7 @@ h3{
   background-color: white;
   color: black;
   width: 50%;
-  padding: 2.5rem;
+  padding: 2.6rem;
   height: 100%;
   display: flex;
   justify-content: flex-end;
@@ -226,7 +226,7 @@ h3{
 }
 
 /*Responsiveness*/
-@media  screen and (max-width:750px) {
+@media  screen and (max-width:1440px) {
   h1{
     font-size: 2rem;
     line-height: 2rem;
